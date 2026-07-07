@@ -99,8 +99,7 @@ The project explores autonomous navigation, embedded systems, human-computer int
 
 <div align="center">
 
-<video src="https://github.com/Sudo-Aju/AliPayBot/raw/main/Gallery/VideoDemo.mp4" width="90%" controls>
-</video>
+https://github.com/user-attachments/assets/9393cabb-99f1-4ce1-a9d7-702ce5b00068
 
 <br>
 

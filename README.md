@@ -27,7 +27,7 @@
 
 # Overview
 
-**Zhi Fu Bao (支付宝)** is an autonomous customer-assistance robot designed to improve shopping experiences by combining mobile robotics, facial recognition, and digital payment systems.
+**AliPay Bot (支付宝)** is an autonomous customer-assistance robot designed to improve shopping experiences by combining mobile robotics, facial recognition, and digital payment systems.
 
 The robot follows customers around a store, recognizes them using facial recognition, and provides a personalized experience by calling customers by their name.
 

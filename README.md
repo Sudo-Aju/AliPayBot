@@ -95,6 +95,22 @@ The project explores autonomous navigation, embedded systems, human-computer int
 
 ---
 
+# Product Demo
+
+<div align="center">
+
+<a href="https://youtu.be/7SEM3P4dzcs">
+<img src="./Gallery/Zine.png" width="90%">
+</a>
+
+<br>
+
+Click the image above to watch the full product demonstration.
+
+</div>
+
+---
+
 # Motivation
 
 Traditional shopping experiences often require customers to wait in queues and manually complete payment processes.

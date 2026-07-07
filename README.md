@@ -16,7 +16,7 @@
 
 <p align="center">
   
-  <img src="./Gallery/render1.png" width="100%">
+  <img src="./Gallery/Render1.png" width="100%">
   
   
 </p>
@@ -53,9 +53,9 @@ The project explores autonomous navigation, embedded systems, human-computer int
 
 <div align="center">
 
-<img src="./Gallery/render2.png">
-<img src="./Gallery/render3.png">
-<img src="./Gallery/render4.png">
+<img src="./Gallery/Render2.png">
+<img src="./Gallery/Render3.png">
+<img src="./Gallery/Render4.png">
 
 </div>
 
@@ -187,7 +187,7 @@ The documentation includes:
 
 ## Schematic
 
-<img src="./Gallery/schematic.png">
+<img src="./Gallery/Cchematic.png">
 
 ---
 
@@ -203,10 +203,10 @@ The design includes:
 - Mpbile Phone mounting
 - Battery compartment
 
-<img src="./Gallery/build1.png">
-<img src="./Gallery/build2.png">
-<img src="./Gallery/build3.png">
-<img src="./Gallery/build4.png">
+<img src="./Gallery/Build1.png">
+<img src="./Gallery/Build2.png">
+<img src="./Gallery/Build3.png">
+<img src="./Gallery/Build4.png">
 
 
 <img src="./Gallery/inside.png">
@@ -388,4 +388,3 @@ This project is licensed under the MIT License.
 ### *Your personal shopping assistant.*
 
 </div>
-```

@@ -40,10 +40,10 @@ Key hardware includes:
 - Seeed Studio XIAO RP2040 Microcontroller
 - DRV8833 Motor Driver
 - LM2596 Buck Converter
-- 7.9V Series Battery Pack
+- 7.9V Series Battery Pack (2 1s Batteries in Series 
 - Ultrasonic Sensors
-- Camera Module for Facial Recognition
-- Display Module for QR Payment
+- Phone for Facial Recognition
+- Phonr for QR Payment
 
 The project explores autonomous navigation, embedded systems, human-computer interaction, and smart retail automation.
 

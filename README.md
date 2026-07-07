@@ -187,7 +187,7 @@ The documentation includes:
 
 ## Schematic
 
-<img src="./Gallery/Cchematic.png">
+<img src="./Gallery/Schematic.png">
 
 ---
 

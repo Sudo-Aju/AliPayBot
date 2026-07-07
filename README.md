@@ -56,6 +56,7 @@ The project explores autonomous navigation, embedded systems, human-computer int
 <img src="./Gallery/Render2.png">
 <img src="./Gallery/Render3.png">
 <img src="./Gallery/Render4.png">
+<img src="./Gallery/Render5.png">
 
 </div>
 
@@ -209,7 +210,7 @@ The design includes:
 <img src="./Gallery/Build4.png">
 
 
-<img src="./Gallery/inside.png">
+<img src="./Gallery/Inside.png">
   
 ---
 

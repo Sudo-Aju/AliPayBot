@@ -3,7 +3,7 @@
 
 # <img src="./Gallery/Logo.png" width="100%" />
 
-An Autonomous Payment Assistant Robot
+# AliPay Bot
 
 <p>
 <img src="https://img.shields.io/badge/Status-Prototype-00C853?style=for-the-badge">

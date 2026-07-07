@@ -53,10 +53,25 @@ The project explores autonomous navigation, embedded systems, human-computer int
 
 <div align="center">
 
-<img src="./Gallery/Render2.png">
-<img src="./Gallery/Render3.png">
-<img src="./Gallery/Render4.png">
-<img src="./Gallery/Render5.png">
+<table>
+<tr>
+<td align="center">
+<img src="./Gallery/Render2.png" width="100%">
+</td>
+<td align="center">
+<img src="./Gallery/Render3.png" width="100%">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./Gallery/Render4.png" width="100%">
+</td>
+<td align="center">
+<img src="./Gallery/Render5.png" width="100%">
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -66,7 +81,15 @@ The project explores autonomous navigation, embedded systems, human-computer int
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
+
 <img src="./Gallery/Zine.png" width="100%">
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -188,7 +211,19 @@ The documentation includes:
 
 ## Schematic
 
-<img src="./Gallery/Schematic.png">
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="./Gallery/Schematic.png" width="90%">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -201,16 +236,39 @@ The design includes:
 - Wheeled chassis
 - Electronics mounting areas
 - Sensor placement
-- Mpbile Phone mounting
+- Mobile phone mounting
 - Battery compartment
 
-<img src="./Gallery/Build1.png">
-<img src="./Gallery/Build2.png">
-<img src="./Gallery/Build3.png">
-<img src="./Gallery/Build4.png">
+<div align="center">
 
+<table>
+<tr>
+<td align="center">
+<img src="./Gallery/Build1.png" width="100%">
+</td>
+<td align="center">
+<img src="./Gallery/Build2.png" width="100%">
+</td>
+</tr>
 
-<img src="./Gallery/Inside.png">
+<tr>
+<td align="center">
+<img src="./Gallery/Build3.png" width="100%">
+</td>
+<td align="center">
+<img src="./Gallery/Build4.png" width="100%">
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="./Gallery/Inside.png" width="70%">
+</td>
+</tr>
+
+</table>
+
+</div>
   
 ---
 

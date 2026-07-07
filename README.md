@@ -99,13 +99,12 @@ The project explores autonomous navigation, embedded systems, human-computer int
 
 <div align="center">
 
-<a href="https://youtu.be/7SEM3P4dzcs">
-<img src="./Gallery/Zine.png" width="90%">
-</a>
+<video src="https://github.com/Sudo-Aju/AliPayBot/raw/main/Gallery/VideoDemo.mp4" width="90%" controls>
+</video>
 
 <br>
 
-Click the image above to watch the full product demonstration.
+Product demonstration showing AliPay Bot's autonomous following, facial recognition, obstacle avoidance, and QR payment workflow.
 
 </div>
 

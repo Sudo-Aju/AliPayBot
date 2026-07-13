@@ -248,7 +248,30 @@ The mechanical structure includes:
 - Battery compartment
 - Internal cable routing for clean wiring
 
-The completed prototype and internal assembly are shown in the Gallery above.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="./Gallery/Render2.png" width="100%">
+</td>
+<td align="center">
+<img src="./Gallery/Render3.png" width="100%">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./Gallery/Render4.png" width="100%">
+</td>
+<td align="center">
+<img src="./Gallery/Render5.png" width="100%">
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
